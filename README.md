@@ -6,7 +6,7 @@ a  jquery plugin for image effections
 now show different effections for a beauty photo 
 
 ![alt tag](https://github.com/keejun/jquery.picturestab.js/blob/master/sample.PNG?raw=true)   
-原图(image before effect)  || 甜美(sweet)  ||  清新(clearly)   || 灰度(gray)
+ 原图(image before effect)   ||   甜美(sweet)     ||    清新(clearly)      || 灰度(gray)
 
 this plugin is easy to be applyed for some web applications . first, you should replace the Jquery plugin before picturestab.js ,then follow the example index.html which offers amounts of effections .
 eg: $("#imagetoeffect").picturestab("#currimage","clearly"); 
