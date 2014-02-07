@@ -16,3 +16,4 @@ $("#imagetoeffect") refers to the undo image , the "#currimage" refers to the ef
     在引用插件之前，须在此之前引入Jquery.js。你可以在index.html中看到一些图片处理特效参数.
     eg : $("#imagetoeffect").picturestab("#currimage","clearly"); $("#imagetoeffect")表示要处理前的图像，而("#currimage","clearly")则表示处理后的图像和处理参数.注您需在处理前的图像的src加上图像地址。
     
+ 
